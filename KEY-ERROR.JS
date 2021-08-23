@@ -5,6 +5,5 @@ window.onload = function hg() {
         location.href = 'index.html'
     }
     else {
-        console.clear()
     }
 }
